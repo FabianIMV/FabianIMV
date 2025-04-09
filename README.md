@@ -5,16 +5,16 @@
 
 ## 👨‍💻 Sobre mí
 
-Ingeniero DevOps y Analista Programador Computacional especializado en AWS, Docker y Kubernetes. Me apasiona la optimización de sistemas y la automatización de procesos. Actualmente enfocado en:
+Ingeniero SRE y Analista Programador Computacional especializado en AWS, Docker y Kubernetes. Me apasiona la optimización de sistemas y la automatización de procesos. Actualmente enfocado en:
 
 - 📊 Creación y optimización de dashboards de observabilidad
 - 🔄 Automatización de despliegues
-- 🛠 Implementación de prácticas DevOps
+- 🛠 Implementación de prácticas DevOps & SRE
 - 📈 Monitoreo y mejora continua de sistemas
 
 ## 🛠 Stack Tecnológico
 
-### Cloud & DevOps
+### Cloud & SRE
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
