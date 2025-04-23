@@ -83,7 +83,6 @@ Ingeniero SRE con experiencia sólida en observabilidad y monitoreo de sistemas 
 
 - 🔍 Técnicas avanzadas de monitoreo con alertas multi-ventana y alertas contextuales
 - 📊 Google Professional Cloud Architect
-- 🔐 Seguridad en Kubernetes y AWS
 
 ## 📫 Contacto
 
