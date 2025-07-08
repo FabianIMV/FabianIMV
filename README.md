@@ -15,9 +15,6 @@ Site Reliability Engineer with solid experience in observability and monitoring 
 - 🛠️ **Monitoring-as-code** implementation with Terraform
 - 🎓 **Completing Computer Engineering** degree (4th year)
 
-### 💼 Professional Experience: 2.9 years at Innfinit
-**Transparency note:** This represents my real experience level - focused on continuous learning and growth in the SRE ecosystem.
-
 ## 🚀 Featured Projects
 
 ### 🔴 CN/Delta Monitoring (Leadership - Current)
