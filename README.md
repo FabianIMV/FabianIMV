@@ -6,13 +6,22 @@
 
 ## 👨‍💻 About Me
 
-Site Reliability Engineer with solid experience in observability and monitoring of critical systems for high-availability enterprise environments. Experienced in incident analysis, post-mortem investigations, and improving monitoring correlation in complex infrastructures. Currently leading my first critical project while completing my Computer Engineering degree.
+Site Reliability Engineer with solid experience in observability and monitoring of critical systems for high-availability enterprise environments. Developing expertise in SRE practices including **golden signals monitoring** (latency, traffic, errors, saturation), **service health assessment**, and **collaborative SLO implementation** under senior technical guidance. Currently leading my first critical project while completing my Computer Engineering degree.
+
+### 🎯 Core SRE Focus:
+- 📊 **Golden Signals Monitoring** (Latency, Traffic, Errors, Saturation)
+- 🎯 **SLI/SLO Implementation & Management** 
+- 📈 **Service Health Threshold Definition**
+- 🔍 **Error Budget Tracking & Analysis**
+- 🛠️ **MTTR Optimization** through incident correlation
+- 📋 **Post-mortem Analysis** for continuous improvement
 
 ### 🔍 Current Focus:
-- 🔍 **Incident analysis & correlation** using BigPanda platform
-- 📊 **Dashboard development** in Grafana Cloud for enterprise monitoring
-- 🎯 **Leading CN/Delta monitoring project** (observability architecture implementation)
-- 🛠️ **Monitoring-as-code** implementation with Terraform
+- 🎯 **Leading CN/Delta monitoring project** (service reliability architecture implementation)
+- 📊 **Golden signals monitoring** using BigPanda, Datadog, and Grafana stack
+- 🔍 **SLI/SLO framework development** with team collaboration  
+- 📈 **Service health threshold optimization** for enterprise infrastructure
+- 🛠️ **MTTR reduction** through improved incident correlation
 - 🎓 **Completing Computer Engineering** degree (4th year)
 
 ## 🚀 Featured Projects
