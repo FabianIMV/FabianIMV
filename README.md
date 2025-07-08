@@ -128,5 +128,3 @@ Site Reliability Engineer with solid experience in observability and monitoring 
 ### 🎯 **My Philosophy**
 *"I believe in honest professional growth. This profile reflects my real experience and current skills. I'm passionate about learning, transparent about my level, and committed to continuous improvement in the SRE field."*
 
----
-⭐️ From [fabianimv](https://github.com/fabianimv) - *Updated with transparency and honesty*
