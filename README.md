@@ -26,7 +26,7 @@ Site Reliability Engineer with solid experience in observability and monitoring 
 
 ## 🚀 Featured Projects
 
-### 🔴 CN/Delta Monitoring (Leadership - Current)
+### 🔴 CN/Delta Monitoring 
 - **Leading** implementation of observability architecture for enterprise infrastructure
 - Configuring monitoring for **Kubernetes environments** using Prometheus Operator (test/lab environments)
 - Developing **Grafana Cloud dashboards** for key components: Kubernetes, RabbitMQ, Redis, AWS RDS, S3
