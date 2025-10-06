@@ -17,7 +17,6 @@ Site Reliability Engineer with solid experience in observability and monitoring 
 - 📋 **Post-mortem Analysis** for continuous improvement
 
 ### 🔍 Current Focus:
-- 🎯 **Leading CN/Delta monitoring project** (service reliability architecture implementation)
 - 📊 **Golden signals monitoring** using BigPanda, Datadog, and Grafana stack
 - 🔍 **SLI/SLO framework development** with team collaboration  
 - 📈 **Service health threshold optimization** for enterprise infrastructure
@@ -27,7 +26,7 @@ Site Reliability Engineer with solid experience in observability and monitoring 
 ## 🚀 Featured Projects
 
 ### 🔴 CN/Delta Monitoring 
-- **Leading** implementation of observability architecture for enterprise infrastructure
+- **Led** implementation of observability architecture for enterprise infrastructure
 - Configuring monitoring for **Kubernetes environments** using Prometheus Operator (test/lab environments)
 - Developing **Grafana Cloud dashboards** for key components: Kubernetes, RabbitMQ, Redis, AWS RDS, S3
 - Managing project with **reduced team**, delivering quality results on time
