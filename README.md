@@ -59,6 +59,8 @@ Site Reliability Engineer focused on observability and monitoring for high-avail
 ## 📊 GitHub Stats
 
 <div align="center">
+![Profile Views](https://komarev.com/ghpvc/?username=fabianimv&color=blueviolet&style=for-the-badge)
+
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=fabianimv&show_icons=true&theme=radical&include_all_commits=true&hide_border=true)
 
@@ -71,4 +73,5 @@ Site Reliability Engineer focused on observability and monitoring for high-avail
 📧 fabianignaciomv@gmail.com | 🔗 [LinkedIn](https://linkedin.com/in/fabianimv) | 🌐 [Portfolio](https://fabianimv.github.io/portfolio)
 
 ---
+
 
