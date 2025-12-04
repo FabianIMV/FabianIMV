@@ -5,13 +5,13 @@
 
 <!-- TYPING SVG -->
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A855F7&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=600&height=100&lines=%F0%9F%94%AD+Building+Observable+Systems;%F0%9F%9A%80+SLI%2FSLO+%7C+Golden+Signals+%7C+MTTR+Optimization;%F0%9F%8E%AF+Turning+Chaos+into+Clarity" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A855F7&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=600&height=100&lines=%F0%9F%8F%A6+SRE+%40+Banco+Falabella;%F0%9F%94%AD+Golden+Signals+%7C+Kafka+%7C+24%2F7+Financial+Systems;%F0%9F%9A%80+3%2B+Years+in+Observability+%26+Monitoring" alt="Typing SVG" /></a>
 </div>
 
-<!-- SOCIAL BADGES WITH ANIMATION -->
+<!-- SOCIAL BADGES -->
 <div align="center">
   <a href="https://linkedin.com/in/fabianimv">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:fabianignaciomv@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
@@ -24,7 +24,7 @@
 
 <br/>
 
-<!-- ABOUT ME SECTION -->
+<!-- ABOUT ME -->
 <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Nerd%20Face.png" alt="Nerd Face" width="100"/>
 
 ## 🎯 About Me
@@ -32,53 +32,105 @@
 ```yaml
 name: Fabián M.
 role: Site Reliability Engineer
-location: Chile 🇨🇱
-focus: 
-  - Observability & Monitoring
-  - High-Availability Enterprise Systems
-  - Incident Analysis & MTTR Optimization
+company: Banco Falabella 🏦
+location: Santiago, Chile 🇨🇱
+experience: 3+ years in Observability & Monitoring
+focus:
+  - Critical Banking Infrastructure
+  - Kafka & Transaction Processing Systems
+  - Golden Signals (Latency, Traffic, Errors, Saturation)
+  - 24/7 Financial Services Reliability
 education: Computer Engineering @ Duoc UC (4th year)
-currently: Leading critical infrastructure projects
 ```
 
 <br clear="right"/>
 
+<!-- CURRENT ROLE -->
+## 🏦 Current Role
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Banco_Falabella-7C3AED?style=for-the-badge&logoColor=white"/>
+        <br/><br/>
+        <b>Site Reliability Engineer</b>
+        <br/>
+        <sub>Oct 2025 - Present | Hybrid</sub>
+        <br/><br/>
+        <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Datadog-632CA6?style=flat-square&logo=datadog&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=white"/>
+        <img src="https://img.shields.io/badge/ELK-005571?style=flat-square&logo=elasticstack&logoColor=white"/>
+      </td>
+    </tr>
+  </table>
+</div>
+
+> *Specializing in observability and monitoring for critical banking infrastructure. Working with Kafka message queues, transaction processing systems, and implementing golden signals monitoring for 24/7 financial services reliability.*
+
+<!-- EXPERIENCE TIMELINE -->
+## 💼 Experience
+
+```mermaid
+timeline
+    title SRE Journey
+    2022-2024 : Liberty Andes
+             : Multi-Region Observability
+             : 3 Countries (CO, CL, EC)
+    2024 : Red Salud
+        : HA Observability Platform
+        : Grafana + Prometheus + Loki
+    2024-2025 : Sovos
+             : Delta Compliance Monitoring
+             : K8s + Grafana Cloud
+    2024-2025 : Liberty Mutual US
+             : Incident Correlation
+             : BigPanda + SLI/SLO
+    2025 : Banco Falabella
+        : Banking SRE
+        : Kafka + Golden Signals
+```
+
 <!-- FEATURED PROJECTS -->
-## 🏗️ Featured Projects
+## 🏗️ Key Projects
 
 <table>
 <tr>
 <td width="50%">
-<h3 align="center">🔭 CN/Delta Monitoring</h3>
+<h3 align="center">🔭 Delta Compliance Monitoring</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Grafana_Cloud-F46800?style=flat-square&logo=grafana&logoColor=white"/>
   <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white"/>
 </p>
 <p align="center"><em>Enterprise K8s observability with dashboards for RabbitMQ, Redis, AWS RDS & S3</em></p>
 </td>
 <td width="50%">
-<h3 align="center">🔥 SRE Incident Analysis</h3>
+<h3 align="center">🔥 Incident Correlation</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/BigPanda-0074D9?style=flat-square&logoColor=white"/>
   <img src="https://img.shields.io/badge/Datadog-632CA6?style=flat-square&logo=datadog&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ServiceNow-81B441?style=flat-square&logo=servicenow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=white"/>
 </p>
-<p align="center"><em>Root cause analysis, post-mortems & incident correlation for noise reduction</em></p>
+<p align="center"><em>Root cause analysis, SLI/SLO framework & noise reduction for financial services</em></p>
 </td>
 </tr>
 </table>
 
-<!-- TECH STACK WITH ICONS -->
+<!-- TECH STACK -->
 ## ⚡ Tech Stack
 
 <div align="center">
 
 | **Observability** | **Cloud & Infra** | **DevOps** | **Languages** |
 |:---:|:---:|:---:|:---:|
-| ![Datadog](https://skillicons.dev/icons?i=grafana) | ![AWS](https://skillicons.dev/icons?i=aws) | ![Docker](https://skillicons.dev/icons?i=docker) | ![Python](https://skillicons.dev/icons?i=python) |
-| ![Prometheus](https://img.shields.io/badge/-Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white) | ![Terraform](https://skillicons.dev/icons?i=terraform) | ![Kubernetes](https://skillicons.dev/icons?i=kubernetes) | ![Bash](https://skillicons.dev/icons?i=bash) |
-| ![Grafana](https://img.shields.io/badge/-Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white) | ![Linux](https://skillicons.dev/icons?i=linux) | ![Jenkins](https://skillicons.dev/icons?i=jenkins) | ![Git](https://skillicons.dev/icons?i=git) |
+| ![Datadog](https://img.shields.io/badge/-Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white) | ![AWS](https://skillicons.dev/icons?i=aws) | ![Docker](https://skillicons.dev/icons?i=docker) | ![Python](https://skillicons.dev/icons?i=python) |
+| ![Prometheus](https://img.shields.io/badge/-Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white) | ![GCP](https://skillicons.dev/icons?i=gcp) | ![Kubernetes](https://skillicons.dev/icons?i=kubernetes) | ![Bash](https://skillicons.dev/icons?i=bash) |
+| ![Grafana](https://img.shields.io/badge/-Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white) | ![Terraform](https://skillicons.dev/icons?i=terraform) | ![Jenkins](https://skillicons.dev/icons?i=jenkins) | ![Git](https://skillicons.dev/icons?i=git) |
+| ![Splunk](https://img.shields.io/badge/-Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white) | ![Linux](https://skillicons.dev/icons?i=linux) | ![Kafka](https://img.shields.io/badge/-Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white) | ![JIRA](https://img.shields.io/badge/-JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white) |
 
 </div>
 
@@ -86,8 +138,8 @@ currently: Leading critical infrastructure projects
 ## 🏅 Certifications
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Oracle_Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Azure_AI-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Oracle_Cloud_Foundations-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Azure_AI_Fundamentals-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
   <img src="https://img.shields.io/badge/Scrum_Professional-009FDA?style=for-the-badge&logo=scrumalliance&logoColor=white"/>
   <img src="https://img.shields.io/badge/OpenTofu-3D65C4?style=for-the-badge&logo=opentofu&logoColor=white"/>
 </div>
@@ -114,7 +166,7 @@ currently: Leading critical infrastructure projects
   <img src="https://github-profile-trophy.vercel.app/?username=FabianIMV&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=15"/>
 </div>
 
-<!-- 3D CONTRIBUTION -->
+<!-- SNAKE -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FabianIMV/FabianIMV/output/github-contribution-grid-snake-dark.svg"/>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/FabianIMV/FabianIMV/output/github-contribution-grid-snake.svg"/>
@@ -126,7 +178,7 @@ currently: Leading critical infrastructure projects
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
 </div>
 
-<!-- RANDOM DEV QUOTE -->
+<!-- QUOTE -->
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
 </div>
