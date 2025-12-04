@@ -5,7 +5,7 @@
 
 <!-- TYPING SVG -->
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A855F7&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=600&height=100&lines=%F0%9F%8F%A6+SRE+%40+Banco+Falabella;%F0%9F%94%AD+Golden+Signals+%7C+Kafka+%7C+24%2F7+Financial+Systems;%F0%9F%9A%80+3%2B+Years+in+Observability+%26+Monitoring" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A855F7&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=600&height=100&lines=%F0%9F%94%AD+Building+Observable+Systems;%F0%9F%9A%80+Golden+Signals+%7C+SLI%2FSLO+%7C+MTTR;%F0%9F%8E%AF+3%2B+Years+in+Observability+%26+Monitoring" alt="Typing SVG" /></a>
 </div>
 
 <!-- SOCIAL BADGES -->
@@ -32,90 +32,60 @@
 ```yaml
 name: Fabián M.
 role: Site Reliability Engineer
-company: Banco Falabella 🏦
 location: Santiago, Chile 🇨🇱
 experience: 3+ years in Observability & Monitoring
 focus:
-  - Critical Banking Infrastructure
-  - Kafka & Transaction Processing Systems
+  - High-Availability Systems
   - Golden Signals (Latency, Traffic, Errors, Saturation)
-  - 24/7 Financial Services Reliability
+  - SLI/SLO Implementation & MTTR Optimization
+  - Incident Analysis & Root Cause Investigation
 education: Computer Engineering @ Duoc UC (4th year)
 ```
 
 <br clear="right"/>
 
-<!-- CURRENT ROLE -->
-## 🏦 Current Role
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://img.shields.io/badge/Banco_Falabella-7C3AED?style=for-the-badge&logoColor=white"/>
-        <br/><br/>
-        <b>Site Reliability Engineer</b>
-        <br/>
-        <sub>Oct 2025 - Present | Hybrid</sub>
-        <br/><br/>
-        <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Datadog-632CA6?style=flat-square&logo=datadog&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=white"/>
-        <img src="https://img.shields.io/badge/ELK-005571?style=flat-square&logo=elasticstack&logoColor=white"/>
-      </td>
-    </tr>
-  </table>
-</div>
-
-> *Specializing in observability and monitoring for critical banking infrastructure. Working with Kafka message queues, transaction processing systems, and implementing golden signals monitoring for 24/7 financial services reliability.*
-
-<!-- EXPERIENCE TIMELINE -->
-## 💼 Experience
-
-```mermaid
-timeline
-    title SRE Journey
-    2022-2024 : Liberty Andes
-             : Multi-Region Observability
-             : 3 Countries (CO, CL, EC)
-    2024 : Red Salud
-        : HA Observability Platform
-        : Grafana + Prometheus + Loki
-    2024-2025 : Sovos
-             : Delta Compliance Monitoring
-             : K8s + Grafana Cloud
-    2024-2025 : Liberty Mutual US
-             : Incident Correlation
-             : BigPanda + SLI/SLO
-    2025 : Banco Falabella
-        : Banking SRE
-        : Kafka + Golden Signals
-```
-
-<!-- FEATURED PROJECTS -->
+<!-- KEY PROJECTS -->
 ## 🏗️ Key Projects
 
 <table>
 <tr>
 <td width="50%">
-<h3 align="center">🔭 Delta Compliance Monitoring</h3>
+<h3 align="center">🔭 Enterprise K8s Observability</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/>
   <img src="https://img.shields.io/badge/Grafana_Cloud-F46800?style=flat-square&logo=grafana&logoColor=white"/>
   <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white"/>
 </p>
-<p align="center"><em>Enterprise K8s observability with dashboards for RabbitMQ, Redis, AWS RDS & S3</em></p>
+<p align="center"><em>Observability architecture with dashboards for K8s, RabbitMQ, Redis, AWS RDS & S3</em></p>
 </td>
 <td width="50%">
-<h3 align="center">🔥 Incident Correlation</h3>
+<h3 align="center">🔥 Incident Correlation Engine</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/BigPanda-0074D9?style=flat-square&logoColor=white"/>
   <img src="https://img.shields.io/badge/Datadog-632CA6?style=flat-square&logo=datadog&logoColor=white"/>
   <img src="https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=white"/>
 </p>
-<p align="center"><em>Root cause analysis, SLI/SLO framework & noise reduction for financial services</em></p>
+<p align="center"><em>Root cause analysis, SLI/SLO framework & noise reduction systems</em></p>
+</td>
+</tr>
+<tr>
+<td width="50%">
+<h3 align="center">📊 HA Monitoring Platform</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Loki-F46800?style=flat-square&logo=grafana&logoColor=white"/>
+</p>
+<p align="center"><em>High-availability architecture with centralized logging & synthetic monitors</em></p>
+</td>
+<td width="50%">
+<h3 align="center">🌎 Multi-Region Observability</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Datadog-632CA6?style=flat-square&logo=datadog&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white"/>
+</p>
+<p align="center"><em>Infrastructure monitoring across multiple regions with IaC deployment</em></p>
 </td>
 </tr>
 </table>
@@ -167,11 +137,13 @@ timeline
 </div>
 
 <!-- SNAKE -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FabianIMV/FabianIMV/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/FabianIMV/FabianIMV/output/github-contribution-grid-snake.svg"/>
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/FabianIMV/FabianIMV/output/github-contribution-grid-snake.svg"/>
-</picture>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FabianIMV/FabianIMV/output/github-contribution-grid-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/FabianIMV/FabianIMV/output/github-contribution-grid-snake.svg"/>
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/FabianIMV/FabianIMV/output/github-contribution-grid-snake.svg"/>
+  </picture>
+</div>
 
 <!-- FOOTER -->
 <div align="center">
