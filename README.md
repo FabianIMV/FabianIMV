@@ -90,14 +90,16 @@ education: Computer Engineering @ Duoc UC (4th year)
 ## ⚡ Tech Stack
 
 <div align="center">
+  <img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,terraform,grafana,prometheus,python,bash,git,linux,jenkins&theme=dark&perline=6" />
+</div>
 
-| **Observability** | **Cloud & Infra** | **DevOps** | **Languages** |
-|:---:|:---:|:---:|:---:|
-| ![Datadog](https://img.shields.io/badge/-Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white) | ![AWS](https://skillicons.dev/icons?i=aws) | ![Docker](https://skillicons.dev/icons?i=docker) | ![Python](https://skillicons.dev/icons?i=python) |
-| ![Prometheus](https://img.shields.io/badge/-Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white) | ![GCP](https://skillicons.dev/icons?i=gcp) | ![Kubernetes](https://skillicons.dev/icons?i=kubernetes) | ![Bash](https://skillicons.dev/icons?i=bash) |
-| ![Grafana](https://img.shields.io/badge/-Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white) | ![Terraform](https://skillicons.dev/icons?i=terraform) | ![Jenkins](https://skillicons.dev/icons?i=jenkins) | ![Git](https://skillicons.dev/icons?i=git) |
-| ![Splunk](https://img.shields.io/badge/-Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white) | ![Linux](https://skillicons.dev/icons?i=linux) | ![Kafka](https://img.shields.io/badge/-Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white) | ![JIRA](https://img.shields.io/badge/-JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white) |
-
+<div align="center">
+  <br/>
+  <img src="https://img.shields.io/badge/-Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-BigPanda-7C3AED?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-ServiceNow-62D84E?style=for-the-badge&logo=servicenow&logoColor=white"/>
 </div>
 
 <!-- CERTIFICATIONS -->
@@ -114,24 +116,13 @@ education: Computer Engineering @ Duoc UC (4th year)
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=FabianIMV&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=C9D1D9&include_all_commits=true&count_private=true"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=FabianIMV&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FabianIMV&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=C9D1D9&include_all_commits=true&count_private=true"/>
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=FabianIMV&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=C9D1D9"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=FabianIMV&layout=compact&theme=default&hide_border=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabianIMV&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=C9D1D9"/>
-  </picture>
+  <a href="https://github.com/FabianIMV">
+    <img src="https://github-stats-alpha.vercel.app/api?username=FabianIMV&cc=0D1117&tc=A855F7&ic=fff&bc=0D1117"/>
+  </a>
 </div>
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com?user=FabianIMV&theme=tokyonight&hide_border=true&background=0D1117&ring=A855F7&fire=A855F7&currStreakLabel=A855F7"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com?user=FabianIMV&theme=default&hide_border=true"/>
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=FabianIMV&theme=tokyonight&hide_border=true&background=0D1117&ring=A855F7&fire=A855F7&currStreakLabel=A855F7"/>
-  </picture>
+  <img src="https://streak-stats.demolab.com?user=FabianIMV&theme=tokyonight&hide_border=true&background=0D1117&ring=A855F7&fire=A855F7&currStreakLabel=A855F7" alt="GitHub Streak"/>
 </div>
 
 <!-- ACTIVITY GRAPH -->
@@ -140,15 +131,6 @@ education: Computer Engineering @ Duoc UC (4th year)
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=FabianIMV&custom_title=Contribution%20Graph&bg_color=0D1117&color=A855F7&line=A855F7&point=FFFFFF&area_color=A855F7&area=true&hide_border=true"/>
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=FabianIMV&custom_title=Contribution%20Graph&theme=minimal&area=true&hide_border=true"/>
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=FabianIMV&custom_title=Contribution%20Graph&bg_color=0D1117&color=A855F7&line=A855F7&point=FFFFFF&area_color=A855F7&area=true&hide_border=true"/>
-  </picture>
-</div>
-
-<!-- TROPHIES -->
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=FabianIMV&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=15"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=FabianIMV&theme=flat&no-frame=true&column=7&margin-w=15"/>
-    <img src="https://github-profile-trophy.vercel.app/?username=FabianIMV&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=15"/>
   </picture>
 </div>
 
