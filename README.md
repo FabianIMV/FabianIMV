@@ -106,6 +106,7 @@ education: Computer Engineering @ Duoc UC (4th year)
 ## 🏅 Certifications
 
 <div align="center">
+  <img src="https://img.shields.io/badge/AWS_Cloud_Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
   <img src="https://img.shields.io/badge/Oracle_Cloud_Foundations-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
   <img src="https://img.shields.io/badge/Azure_AI_Fundamentals-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
   <img src="https://img.shields.io/badge/Scrum_Professional-009FDA?style=for-the-badge&logo=scrumalliance&logoColor=white"/>
