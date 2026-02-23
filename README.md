@@ -19,6 +19,7 @@
   <a href="https://fabianimv.github.io/portfolio">
     <img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white"/>
   </a>
+  <img src="https://img.shields.io/badge/Open_to_Work-00B16A?style=for-the-badge&logo=handshake&logoColor=white"/>
   <img src="https://komarev.com/ghpvc/?username=FabianIMV&style=for-the-badge&color=blueviolet&label=VISITORS"/>
 </div>
 
@@ -40,9 +41,23 @@ focus:
   - SLI/SLO Implementation & MTTR Optimization
   - Incident Analysis & Root Cause Investigation
 education: Computer Engineer @ Duoc UC 🎓
+languages:
+  - Spanish (native) 🇨🇱
+  - English (professional) 🇺🇸
+currently:
+  - 🔭 Building observability pipelines at scale
+  - 🌱 Learning: eBPF & OpenTelemetry deep-dive
+  - 💬 Ask me about: SLOs, Grafana, Incident Management
 ```
 
 <br clear="right"/>
+
+<!-- TROPHIES -->
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=FabianIMV&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=5"/>
+</div>
 
 <!-- KEY PROJECTS -->
 ## 🏗️ Key Projects
@@ -124,6 +139,10 @@ education: Computer Engineer @ Duoc UC 🎓
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=FabianIMV&theme=tokyonight&hide_border=true&background=0D1117&ring=A855F7&fire=A855F7&currStreakLabel=A855F7" alt="GitHub Streak"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabianIMV&theme=tokyonight&hide_border=true&bg_color=0D1117&layout=compact&title_color=A855F7&text_color=ffffff" alt="Top Languages"/>
 </div>
 
 <!-- ACTIVITY GRAPH -->
