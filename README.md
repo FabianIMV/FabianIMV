@@ -46,7 +46,6 @@ languages:
   - English (professional) 🇺🇸
 currently:
   - 🔭 Building observability pipelines at scale
-  - 🌱 Learning: eBPF & OpenTelemetry deep-dive
   - 💬 Ask me about: SLOs, Grafana, Incident Management
 ```
 
