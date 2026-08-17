@@ -24,10 +24,7 @@
 
 <br/>
 
-<!-- ABOUT ME AND TROPHIES SIDE BY SIDE -->
-<table width="100%">
-<tr>
-<td width="55%" valign="top">
+<!-- ABOUT ME -->
 
 ## 👨‍💻 About Me
 
@@ -49,15 +46,6 @@ currently:
   - 🔭 Building observability pipelines at scale
   - 💬 Ask me about: SLOs, Grafana, Incident Management
 ```
-</td>
-<td width="45%" valign="top" align="center">
-
-## 🏆 Trophies
-<br/>
-<img src="https://github-profile-trophy.vercel.app/?username=FabianIMV&theme=tokyonight&no-frame=true&row=2&column=3&margin-w=10&margin-h=10"/>
-</td>
-</tr>
-</table>
 
 <!-- KEY PROJECTS -->
 ## 🏗️ Key Projects
@@ -141,30 +129,11 @@ currently:
 ## 📈 Analytics & Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FabianIMV&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" height="195" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabianIMV&theme=tokyonight&hide_border=true&layout=compact" height="195" alt="Top Languages"/>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=FabianIMV&theme=tokyonight&hide_border=true&background=0D1117&ring=A855F7&fire=A855F7&currStreakLabel=A855F7" alt="GitHub Streak"/>
-</div>
-
-<br/>
-
-<div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=FabianIMV&custom_title=Contribution%20Graph&bg_color=0D1117&color=A855F7&line=A855F7&point=FFFFFF&area_color=A855F7&area=true&hide_border=true"/>
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=FabianIMV&custom_title=Contribution%20Graph&theme=minimal&area=true&hide_border=true"/>
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=FabianIMV&custom_title=Contribution%20Graph&bg_color=0D1117&color=A855F7&line=A855F7&point=FFFFFF&area_color=A855F7&area=true&hide_border=true"/>
   </picture>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/FabianIMV/FabianIMV/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
 </div>
 
 ---
