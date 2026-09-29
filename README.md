@@ -1,58 +1,94 @@
-<!-- HEADER WITH TYPING SVG -->
+<!-- ═══════════════════════════════ HEADER ═══════════════════════════════ -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=15,18,25&height=220&section=header&text=Fabián%20M.&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=32&desc=Site%20Reliability%20Engineer%20🚀%20Observability%20Expert&descAlignY=55&descSize=20"/>
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0D1117,50:6D28D9,100:A855F7&height=240&section=header&text=Fabián%20M.&fontSize=64&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Site%20Reliability%20Engineer%20·%20Observability%20Nerd&descAlignY=60&descSize=20" width="100%"/>
 </div>
 
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=A855F7&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=650&height=80&lines=%F0%9F%94%AD+Building+Observable+Systems;%F0%9F%9A%80+Golden+Signals+%7C+SLI%2FSLO+%7C+MTTR;%F0%9F%8E%AF+3%2B+Years+in+Observability+%26+Monitoring" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=700&lines=%24+kubectl+get+engineer+fabian+-o+wide;%F0%9F%94%AD+Making+systems+observable%2C+one+signal+at+a+time;%F0%9F%9A%A8+Fewer+alerts.+Better+alerts.;%F0%9F%93%89+Burning+MTTR%2C+not+error+budgets;%F0%9F%87%A8%F0%9F%87%B1+Santiago%2C+Chile+%C2%B7+Open+to+new+challenges" alt="Typing SVG" /></a>
 </div>
 
-<!-- SOCIAL BADGES -->
 <div align="center">
-  <a href="https://linkedin.com/in/fabianimv">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:fabianignaciomv@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://fabianimv.github.io/portfolio">
-    <img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-  </a>
-  <img src="https://img.shields.io/badge/Open_to_Work-00B16A?style=for-the-badge&logo=handshake&logoColor=white"/>
-  <img src="https://komarev.com/ghpvc/?username=FabianIMV&style=for-the-badge&color=A855F7&label=PROFILE+VIEWS"/>
+  <a href="https://linkedin.com/in/fabianimv"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:fabianignaciomv@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://fabianimv.github.io/portfolio"><img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Status-Open_to_Work-00B16A?style=for-the-badge&logo=statuspage&logoColor=white"/>
+  <br/>
+  <img src="https://komarev.com/ghpvc/?username=FabianIMV&style=flat-square&color=A855F7&label=profile+views"/>
 </div>
 
 <br/>
 
-<!-- ABOUT ME -->
+<!-- ═══════════════════════════════ STATUS PAGE ═══════════════════════════════ -->
+## 🟢 `fabian.prod` — System Status
 
-## 👨‍💻 About Me
+> _All systems operational._ This profile is monitored 24/7 by caffeine-driven synthetic checks.
+
+| Service | Status | SLO | Notes |
+| :-- | :--: | :--: | :-- |
+| 🔭 Observability & Monitoring | ![](https://img.shields.io/badge/-operational-00B16A?style=flat-square) | `3+ yrs uptime` | Dashboards, alerts & pipelines at scale |
+| 🚨 Incident Response | ![](https://img.shields.io/badge/-operational-00B16A?style=flat-square) | `MTTR ↓` | Root cause over quick fixes |
+| 📐 SLI / SLO Engineering | ![](https://img.shields.io/badge/-operational-00B16A?style=flat-square) | `99.9%` | Golden Signals: latency · traffic · errors · saturation |
+| ☁️ Cloud & IaC | ![](https://img.shields.io/badge/-operational-00B16A?style=flat-square) | `terraform plan ✔` | AWS · GCP · Terraform / OpenTofu |
+| 📚 Learning Pipeline | ![](https://img.shields.io/badge/-deploying-A855F7?style=flat-square) | `continuous` | Always shipping new skills |
+| ☕ Coffee Saturation | ![](https://img.shields.io/badge/-degraded-F59E0B?style=flat-square) | `< 90%` | Refill scheduled, no action needed |
+
+<!-- ═══════════════════════════════ ABOUT ═══════════════════════════════ -->
+## 👨‍💻 `$ kubectl describe engineer fabian`
 
 ```yaml
-name: Fabián M.
-role: Site Reliability Engineer
-location: Santiago, Chile 🇨🇱
-experience: 3+ years in Observability & Monitoring
-focus:
-  - High-Availability Systems
-  - Golden Signals (Latency, Traffic, Errors, Saturation)
-  - SLI/SLO Implementation & MTTR Optimization
-  - Incident Analysis & Root Cause Investigation
-education: Computer Engineer @ Duoc UC 🎓
-languages:
-  - Spanish (native) 🇨🇱
-  - English (professional) 🇺🇸
-currently:
-  - 🔭 Building observability pipelines at scale
-  - 💬 Ask me about: SLOs, Grafana, Incident Management
+apiVersion: human/v1
+kind: SiteReliabilityEngineer
+metadata:
+  name: fabian-m
+  namespace: santiago-chile 🇨🇱
+  labels:
+    role: sre
+    specialty: observability
+    experience: 3y+
+spec:
+  education: Computer Engineer @ Duoc UC 🎓
+  languages: [Spanish (native) 🇨🇱, English (professional) 🇺🇸]
+  focus:
+    - High-Availability Systems
+    - Golden Signals (Latency, Traffic, Errors, Saturation)
+    - SLI/SLO Implementation & MTTR Optimization
+    - Incident Analysis & Root Cause Investigation
+status:
+  phase: Running ✅
+  currentlyWorkingOn: 🔭 Building observability pipelines at scale
+  askMeAbout: [SLOs, Grafana, Incident Management, Alert noise reduction]
 ```
 
-<!-- KEY PROJECTS -->
+<!-- ═══════════════════════════════ HOW I WORK ═══════════════════════════════ -->
+## 🧭 How I Make Systems Observable
+
+```mermaid
+flowchart LR
+    A["⚙️ Services<br/>K8s · RabbitMQ · Redis<br/>AWS RDS · S3"] --> B["📡 Collect<br/>Prometheus · Datadog"]
+    A --> C["📜 Logs<br/>Loki · Splunk"]
+    B --> D["📊 Visualize<br/>Grafana dashboards"]
+    C --> D
+    D --> E{"🎯 SLO<br/>breached?"}
+    E -- no --> F["😴 Sleep well"]
+    E -- yes --> G["🚨 Correlate<br/>BigPanda"]
+    G --> H["🧑‍🚒 Respond<br/>ServiceNow"]
+    H --> I["📝 Postmortem<br/>& RCA"]
+    I -. "continuous improvement" .-> A
+
+    classDef ok fill:#064E3B,stroke:#10B981,color:#fff
+    classDef alert fill:#7F1D1D,stroke:#EF4444,color:#fff
+    classDef core fill:#4C1D95,stroke:#A855F7,color:#fff
+    class A,B,C,D core
+    class F ok
+    class G,H,I alert
+```
+
+<!-- ═══════════════════════════════ PROJECTS ═══════════════════════════════ -->
 ## 🏗️ Key Projects
 
 <table width="100%">
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 <h3 align="center">🔭 Enterprise K8s Observability</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/>
@@ -61,18 +97,18 @@ currently:
 </p>
 <p align="center"><em>Observability architecture with dashboards for K8s, RabbitMQ, Redis, AWS RDS & S3</em></p>
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 <h3 align="center">🔥 Incident Correlation Engine</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Datadog-632CA6?style=flat-square&logo=datadog&logoColor=white"/>
   <img src="https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=white"/>
   <img src="https://img.shields.io/badge/BigPanda-0074D9?style=flat-square&logoColor=white"/>
 </p>
-<p align="center"><em>Root cause analysis, SLI/SLO framework & noise reduction systems</em></p>
+<p align="center"><em>Root cause analysis, SLI/SLO framework & alert noise reduction</em></p>
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 <h3 align="center">📊 HA Monitoring Platform</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white"/>
@@ -81,7 +117,7 @@ currently:
 </p>
 <p align="center"><em>High-availability architecture with centralized logging & synthetic monitors</em></p>
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 <h3 align="center">🌎 Multi-Region Observability</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white"/>
@@ -93,61 +129,79 @@ currently:
 </tr>
 </table>
 
-## ⚡ Tech Stack & Certifications
+<!-- ═══════════════════════════════ STACK ═══════════════════════════════ -->
+## ⚡ Tech Stack
 
-<table width="100%">
-<tr>
-<td width="50%" align="center">
-<h3>🛠️ Tech Stack</h3>
-<br/>
-<img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,terraform,grafana,prometheus,python,bash,git,linux,jenkins&theme=dark&perline=4" />
-<br/><br/>
-<p align="center">
-  <img src="https://img.shields.io/badge/-Datadog-632CA6?style=flat-square&logo=datadog&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Splunk-000000?style=flat-square&logo=splunk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-BigPanda-7C3AED?style=flat-square&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-ServiceNow-62D84E?style=flat-square&logo=servicenow&logoColor=white"/>
-</p>
-</td>
-<td width="50%" align="center">
-<h3>🏅 Certifications</h3>
-<br/>
-<img src="https://img.shields.io/badge/AWS_Cloud_Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-<br/><br/>
-<img src="https://img.shields.io/badge/Oracle_Cloud_Foundations-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
-<br/><br/>
-<img src="https://img.shields.io/badge/Azure_AI_Fundamentals-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
-<br/><br/>
-<img src="https://img.shields.io/badge/Scrum_Professional-009FDA?style=for-the-badge&logo=scrumalliance&logoColor=white"/>
-<br/><br/>
-<img src="https://img.shields.io/badge/OpenTofu-3D65C4?style=for-the-badge&logo=opentofu&logoColor=white"/>
-</td>
-</tr>
-</table>
+<div align="center">
 
-## 📈 Analytics & Activity
+| ☁️ Cloud & Infra | 📡 Observability | 🚨 Incident Mgmt | 🧑‍💻 Code & Automation |
+| :--: | :--: | :--: | :--: |
+| <img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,terraform,linux&perline=3&theme=dark"/> | <img src="https://skillicons.dev/icons?i=grafana,prometheus&theme=dark"/><br/><img src="https://img.shields.io/badge/-Datadog-632CA6?style=flat-square&logo=datadog&logoColor=white"/><br/><img src="https://img.shields.io/badge/-Splunk-000000?style=flat-square&logo=splunk&logoColor=white"/><br/><img src="https://img.shields.io/badge/-Loki-F46800?style=flat-square&logo=grafana&logoColor=white"/> | <img src="https://img.shields.io/badge/-BigPanda-7C3AED?style=flat-square&logoColor=white"/><br/><img src="https://img.shields.io/badge/-ServiceNow-62D84E?style=flat-square&logo=servicenow&logoColor=white"/><br/><img src="https://img.shields.io/badge/-Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white"/> | <img src="https://skillicons.dev/icons?i=python,bash,git,jenkins&perline=2&theme=dark"/> |
+
+</div>
+
+<!-- ═══════════════════════════════ CERTS ═══════════════════════════════ -->
+## 🏅 Certifications
+
+<div align="center">
+  <img src="https://img.shields.io/badge/AWS_Cloud_Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Oracle_Cloud_Foundations-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Azure_AI_Fundamentals-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scrum_Professional-009FDA?style=for-the-badge&logo=scrumalliance&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenTofu-3D65C4?style=for-the-badge&logo=opentofu&logoColor=white"/>
+</div>
+
+<!-- ═══════════════════════════════ ACTIVITY ═══════════════════════════════ -->
+## 📈 Telemetry
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=FabianIMV&custom_title=Contribution%20Graph&bg_color=0D1117&color=A855F7&line=A855F7&point=FFFFFF&area_color=A855F7&area=true&hide_border=true"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=FabianIMV&custom_title=Contribution%20Graph&theme=minimal&area=true&hide_border=true"/>
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=FabianIMV&custom_title=Contribution%20Graph&bg_color=0D1117&color=A855F7&line=A855F7&point=FFFFFF&area_color=A855F7&area=true&hide_border=true"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=FabianIMV&custom_title=Contribution%20Metrics&bg_color=0D1117&color=A855F7&line=A855F7&point=FFFFFF&area_color=A855F7&area=true&hide_border=true"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=FabianIMV&custom_title=Contribution%20Metrics&theme=minimal&area=true&hide_border=true"/>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=FabianIMV&custom_title=Contribution%20Metrics&bg_color=0D1117&color=A855F7&line=A855F7&point=FFFFFF&area_color=A855F7&area=true&hide_border=true"/>
   </picture>
 </div>
 
----
-
 <div align="center">
-  <h2>💬 Let's connect and build observable systems together!</h2>
-  <a href="mailto:fabianignaciomv@gmail.com">
-    <img src="https://img.shields.io/badge/Send_me_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FabianIMV/FabianIMV/output/github-contribution-grid-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/FabianIMV/FabianIMV/output/github-contribution-grid-snake.svg"/>
+    <img alt="Contribution snake" src="https://raw.githubusercontent.com/FabianIMV/FabianIMV/output/github-contribution-grid-snake-dark.svg"/>
+  </picture>
+  <br/>
+  <sub>🐍 A snake eating my contributions — the only acceptable kind of data loss.</sub>
 </div>
+
+<!-- ═══════════════════════════════ ON-CALL ═══════════════════════════════ -->
+## 📟 On-Call Runbook
+
+<details>
+<summary><b>🚨 Need an SRE? Click to open the runbook</b></summary>
 
 <br/>
 
-<!-- FOOTER -->
+```bash
+# Step 1 — Identify the issue
+$ echo "Your systems need better observability"
+
+# Step 2 — Escalate to the right person
+$ page --to "Fabián M." --severity "let's-talk" \
+       --channel linkedin.com/in/fabianimv \
+       --fallback fabianignaciomv@gmail.com
+
+# Step 3 — Resolution
+✔ Dashboards built   ✔ SLOs defined   ✔ Alert noise reduced   ✔ Team sleeps well
+```
+
+</details>
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=15,18,25&height=100&section=footer"/>
+  <h3>💬 Let's connect and build observable systems together!</h3>
+  <a href="https://linkedin.com/in/fabianimv"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:fabianignaciomv@gmail.com"><img src="https://img.shields.io/badge/Send_me_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</div>
+
+<!-- ═══════════════════════════════ FOOTER ═══════════════════════════════ -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:A855F7,50:6D28D9,100:0D1117&height=120&section=footer" width="100%"/>
 </div>
