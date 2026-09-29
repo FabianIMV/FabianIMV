@@ -1,10 +1,10 @@
 <!-- ═══════════════════════════════ HEADER ═══════════════════════════════ -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0D1117,50:6D28D9,100:A855F7&height=240&section=header&text=Fabián%20M.&fontSize=64&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Site%20Reliability%20Engineer%20·%20Observability%20Nerd&descAlignY=60&descSize=20" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:6D28D9,100:A855F7&height=220&section=header&text=Fabián%20M.&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Site%20Reliability%20Engineer%20·%20Observability%20Nerd&descAlignY=58&descSize=18" width="100%"/>
 </div>
 
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=700&lines=%24+kubectl+get+engineer+fabian+-o+wide;%F0%9F%94%AD+Making+systems+observable%2C+one+signal+at+a+time;%F0%9F%9A%A8+Fewer+alerts.+Better+alerts.;%F0%9F%93%89+Burning+MTTR%2C+not+error+budgets;%F0%9F%87%A8%F0%9F%87%B1+Santiago%2C+Chile+%C2%B7+Open+to+new+challenges" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=%24+kubectl+get+engineer+fabian;%F0%9F%94%AD+Making+systems+observable;%F0%9F%9A%A8+Fewer+alerts.+Better+alerts.;%F0%9F%93%89+Burning+MTTR%2C+not+error+budgets;%F0%9F%87%A8%F0%9F%87%B1+Santiago%2C+Chile+%C2%B7+Open+to+work" alt="Typing SVG"/></a>
 </div>
 
 <div align="center">
@@ -23,14 +23,14 @@
 
 > _All systems operational._ This profile is monitored 24/7 by caffeine-driven synthetic checks.
 
-| Service | Status | SLO | Notes |
-| :-- | :--: | :--: | :-- |
-| 🔭 Observability & Monitoring | ![](https://img.shields.io/badge/-operational-00B16A?style=flat-square) | `3+ yrs uptime` | Dashboards, alerts & pipelines at scale |
-| 🚨 Incident Response | ![](https://img.shields.io/badge/-operational-00B16A?style=flat-square) | `MTTR ↓` | Root cause over quick fixes |
-| 📐 SLI / SLO Engineering | ![](https://img.shields.io/badge/-operational-00B16A?style=flat-square) | `99.9%` | Golden Signals: latency · traffic · errors · saturation |
-| ☁️ Cloud & IaC | ![](https://img.shields.io/badge/-operational-00B16A?style=flat-square) | `terraform plan ✔` | AWS · GCP · Terraform / OpenTofu |
-| 📚 Learning Pipeline | ![](https://img.shields.io/badge/-deploying-A855F7?style=flat-square) | `continuous` | Always shipping new skills |
-| ☕ Coffee Saturation | ![](https://img.shields.io/badge/-degraded-F59E0B?style=flat-square) | `< 90%` | Refill scheduled, no action needed |
+| Service | Status |
+| :-- | :--: |
+| 🔭 **Observability & Monitoring**<br/><sub>Dashboards, alerts & pipelines at scale · `3+ yrs uptime`</sub> | ![](https://img.shields.io/badge/-operational-00B16A?style=flat-square) |
+| 🚨 **Incident Response**<br/><sub>Root cause over quick fixes · `MTTR ↓`</sub> | ![](https://img.shields.io/badge/-operational-00B16A?style=flat-square) |
+| 📐 **SLI / SLO Engineering**<br/><sub>Latency · traffic · errors · saturation · `99.9%`</sub> | ![](https://img.shields.io/badge/-operational-00B16A?style=flat-square) |
+| ☁️ **Cloud & IaC**<br/><sub>AWS · GCP · Terraform / OpenTofu · `plan ✔`</sub> | ![](https://img.shields.io/badge/-operational-00B16A?style=flat-square) |
+| 📚 **Learning Pipeline**<br/><sub>Always shipping new skills · `continuous`</sub> | ![](https://img.shields.io/badge/-deploying-A855F7?style=flat-square) |
+| ☕ **Coffee Saturation**<br/><sub>Refill scheduled, no action needed · `< 90%`</sub> | ![](https://img.shields.io/badge/-degraded-F59E0B?style=flat-square) |
 
 <!-- ═══════════════════════════════ ABOUT ═══════════════════════════════ -->
 ## 👨‍💻 `$ kubectl describe engineer fabian`
@@ -47,33 +47,39 @@ metadata:
     experience: 3y+
 spec:
   education: Computer Engineer @ Duoc UC 🎓
-  languages: [Spanish (native) 🇨🇱, English (professional) 🇺🇸]
+  languages:
+    - Spanish (native) 🇨🇱
+    - English (professional) 🇺🇸
   focus:
     - High-Availability Systems
-    - Golden Signals (Latency, Traffic, Errors, Saturation)
-    - SLI/SLO Implementation & MTTR Optimization
-    - Incident Analysis & Root Cause Investigation
+    - Golden Signals
+    - SLI/SLO & MTTR Optimization
+    - Incident & Root Cause Analysis
 status:
   phase: Running ✅
-  currentlyWorkingOn: 🔭 Building observability pipelines at scale
-  askMeAbout: [SLOs, Grafana, Incident Management, Alert noise reduction]
+  workingOn: 🔭 Observability at scale
+  askMeAbout:
+    - SLOs
+    - Grafana
+    - Incident Management
+    - Alert noise reduction
 ```
 
 <!-- ═══════════════════════════════ HOW I WORK ═══════════════════════════════ -->
 ## 🧭 How I Make Systems Observable
 
 ```mermaid
-flowchart LR
-    A["⚙️ Services<br/>K8s · RabbitMQ · Redis<br/>AWS RDS · S3"] --> B["📡 Collect<br/>Prometheus · Datadog"]
+flowchart TD
+    A["⚙️ Services<br/>K8s · RabbitMQ · Redis · AWS"] --> B["📡 Metrics<br/>Prometheus · Datadog"]
     A --> C["📜 Logs<br/>Loki · Splunk"]
-    B --> D["📊 Visualize<br/>Grafana dashboards"]
+    B --> D["📊 Grafana dashboards"]
     C --> D
-    D --> E{"🎯 SLO<br/>breached?"}
+    D --> E{"🎯 SLO breached?"}
     E -- no --> F["😴 Sleep well"]
-    E -- yes --> G["🚨 Correlate<br/>BigPanda"]
-    G --> H["🧑‍🚒 Respond<br/>ServiceNow"]
-    H --> I["📝 Postmortem<br/>& RCA"]
-    I -. "continuous improvement" .-> A
+    E -- yes --> G["🚨 Correlate · BigPanda"]
+    G --> H["🧑‍🚒 Respond · ServiceNow"]
+    H --> I["📝 Postmortem & RCA"]
+    I -. "improve" .-> A
 
     classDef ok fill:#064E3B,stroke:#10B981,color:#fff
     classDef alert fill:#7F1D1D,stroke:#EF4444,color:#fff
@@ -86,58 +92,38 @@ flowchart LR
 <!-- ═══════════════════════════════ PROJECTS ═══════════════════════════════ -->
 ## 🏗️ Key Projects
 
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-<h3 align="center">🔭 Enterprise K8s Observability</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white"/>
-</p>
-<p align="center"><em>Observability architecture with dashboards for K8s, RabbitMQ, Redis, AWS RDS & S3</em></p>
-</td>
-<td width="50%" valign="top">
-<h3 align="center">🔥 Incident Correlation Engine</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/Datadog-632CA6?style=flat-square&logo=datadog&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/BigPanda-0074D9?style=flat-square&logoColor=white"/>
-</p>
-<p align="center"><em>Root cause analysis, SLI/SLO framework & alert noise reduction</em></p>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<h3 align="center">📊 HA Monitoring Platform</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Loki-F46800?style=flat-square&logo=grafana&logoColor=white"/>
-</p>
-<p align="center"><em>High-availability architecture with centralized logging & synthetic monitors</em></p>
-</td>
-<td width="50%" valign="top">
-<h3 align="center">🌎 Multi-Region Observability</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Datadog-632CA6?style=flat-square&logo=datadog&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white"/>
-</p>
-<p align="center"><em>Infrastructure monitoring across multiple regions with IaC deployment</em></p>
-</td>
-</tr>
-</table>
+> ### 🔭 Enterprise K8s Observability
+> <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/> <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white"/> <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white"/>
+>
+> Observability architecture with dashboards for K8s, RabbitMQ, Redis, AWS RDS & S3.
+
+> ### 🔥 Incident Correlation Engine
+> <img src="https://img.shields.io/badge/Datadog-632CA6?style=flat-square&logo=datadog&logoColor=white"/> <img src="https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=white"/> <img src="https://img.shields.io/badge/BigPanda-0074D9?style=flat-square&logoColor=white"/>
+>
+> Root cause analysis, SLI/SLO framework & alert noise reduction.
+
+> ### 📊 HA Monitoring Platform
+> <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white"/> <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white"/> <img src="https://img.shields.io/badge/Loki-F46800?style=flat-square&logo=grafana&logoColor=white"/>
+>
+> High-availability architecture with centralized logging & synthetic monitors.
+
+> ### 🌎 Multi-Region Observability
+> <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white"/> <img src="https://img.shields.io/badge/Datadog-632CA6?style=flat-square&logo=datadog&logoColor=white"/> <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white"/>
+>
+> Infrastructure monitoring across multiple regions with IaC deployment.
 
 <!-- ═══════════════════════════════ STACK ═══════════════════════════════ -->
 ## ⚡ Tech Stack
 
 <div align="center">
-
-| ☁️ Cloud & Infra | 📡 Observability | 🚨 Incident Mgmt | 🧑‍💻 Code & Automation |
-| :--: | :--: | :--: | :--: |
-| <img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,terraform,linux&perline=3&theme=dark"/> | <img src="https://skillicons.dev/icons?i=grafana,prometheus&theme=dark"/><br/><img src="https://img.shields.io/badge/-Datadog-632CA6?style=flat-square&logo=datadog&logoColor=white"/><br/><img src="https://img.shields.io/badge/-Splunk-000000?style=flat-square&logo=splunk&logoColor=white"/><br/><img src="https://img.shields.io/badge/-Loki-F46800?style=flat-square&logo=grafana&logoColor=white"/> | <img src="https://img.shields.io/badge/-BigPanda-7C3AED?style=flat-square&logoColor=white"/><br/><img src="https://img.shields.io/badge/-ServiceNow-62D84E?style=flat-square&logo=servicenow&logoColor=white"/><br/><img src="https://img.shields.io/badge/-Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white"/> | <img src="https://skillicons.dev/icons?i=python,bash,git,jenkins&perline=2&theme=dark"/> |
-
+  <img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,terraform,linux,grafana,prometheus,python,bash,git,jenkins&perline=6&theme=dark"/>
+  <br/><br/>
+  <img src="https://img.shields.io/badge/-Datadog-632CA6?style=flat-square&logo=datadog&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Splunk-000000?style=flat-square&logo=splunk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Loki-F46800?style=flat-square&logo=grafana&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-BigPanda-7C3AED?style=flat-square&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-ServiceNow-62D84E?style=flat-square&logo=servicenow&logoColor=white"/>
 </div>
 
 <!-- ═══════════════════════════════ CERTS ═══════════════════════════════ -->
@@ -182,7 +168,7 @@ flowchart LR
 
 ```bash
 # Step 1 — Identify the issue
-$ echo "Your systems need better observability"
+$ echo "Need better observability"
 
 # Step 2 — Escalate to the right person
 $ page --to "Fabián M." --severity "let's-talk" \
@@ -190,7 +176,10 @@ $ page --to "Fabián M." --severity "let's-talk" \
        --fallback fabianignaciomv@gmail.com
 
 # Step 3 — Resolution
-✔ Dashboards built   ✔ SLOs defined   ✔ Alert noise reduced   ✔ Team sleeps well
+✔ Dashboards built
+✔ SLOs defined
+✔ Alert noise reduced
+✔ Team sleeps well
 ```
 
 </details>
