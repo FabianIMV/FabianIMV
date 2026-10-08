@@ -13,7 +13,10 @@
   <a href="https://fabianimv.github.io/portfolio"><img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Status-Open_to_Work-00B16A?style=for-the-badge&logo=statuspage&logoColor=white"/>
   <br/>
-  <img src="https://komarev.com/ghpvc/?username=FabianIMV&style=flat-square&color=A855F7&label=profile+views"/>
+  <br/>
+  <img src="https://komarev.com/ghpvc/?username=FabianIMV&style=for-the-badge&color=EF4444&label=%F0%9F%93%9F%20NEW%20VISITOR%20DETECTED%20%C2%B7%20INC%20%23" alt="Visitor incident counter"/>
+  <br/>
+  <sub>🚨 <b>Severity: awesome.</b> You've been paged — welcome to my profile! 👋</sub>
 </div>
 
 <br/>
